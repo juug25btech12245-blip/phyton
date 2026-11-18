@@ -1,0 +1,32 @@
+[
+    {
+        "time": "10:00:01",
+        "level": "INFO",
+        "service": "auth",
+        "message": "Login success"
+    },
+    {
+        "time": "10:05:12",
+        "level": "ERROR",
+        "service": "db",
+        "message": "Connection failed"
+    },
+    {
+        "time": "10:10:45",
+        "level": "WARNING",
+        "service": "api",
+        "message": "Slow response"
+    },
+    {
+        "time": "10:15:30",
+        "level": "ERROR",
+        "service": "db",
+        "message": "Timeout"
+    },
+    {
+        "time": "10:20:11",
+        "level": "INFO",
+        "service": "api",
+        "message": "Request served"
+    }
+]

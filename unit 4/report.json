@@ -1,0 +1,11 @@
+{
+    "total": 5,
+    "by_level": {
+        "INFO": 2,
+        "ERROR": 2,
+        "WARNING": 1
+    },
+    "errors_by_service": {
+        "db": 2
+    }
+}
